@@ -12,7 +12,7 @@ The past hours are highlighted gray, the current hour red, and future hours gree
 ## Deployment - Link
 No deployment is required - Click [here](https://christiankapita.github.io/Jquery-Day_Work_Planner/.) to launch the app
 
-## Screeshots
+## Screenshots
  App view with sample data
  1. ![home page 1](https://user-images.githubusercontent.com/73804862/102029525-bf521a00-3d7c-11eb-9c0b-c6fedeecea34.PNG)
 2. ![home page 2](https://user-images.githubusercontent.com/73804862/102029533-c37e3780-3d7c-11eb-97cf-56d369a68db4.PNG)
