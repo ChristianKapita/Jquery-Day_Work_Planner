@@ -1,8 +1,8 @@
 # Jquey-Day_Work_Planner
 
 ## Discription
-This project consist of a simple  day planenr application that allows the user to save events for each hour of the day. Tha app loops through hours fro, 11 am - 7 pm. User will enter and save a work to be done into any field. Data will be saved to the browser- Using local storage
-The past hours are The past hours are highlighted gray, the current hour red, and future hours green.
+This project consist of a simple  day planenr application that allows the user to save events for each hour of the day. Tha app loops through hours from 11 am - 7 pm. User will enter and save a work to be done into any field. Data will be saved to the browser- Using local storage.
+The past hours are highlighted gray, the current hour red, and future hours green.
 
 ## Technologies used : 
 ### 1. Html
