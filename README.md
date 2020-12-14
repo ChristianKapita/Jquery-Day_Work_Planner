@@ -10,7 +10,7 @@ The past hours are The past hours are highlighted gray, the current hour red, an
 ### 3. Jquery and moment library
 
 ## Deployment - Link
-No deployment is required - Click [here]() to launch the app
+No deployment is required - Click [here](https://christiankapita.github.io/Jquery-Day_Work_Planner/.) to launch the app
 
 ## Screeshots
  App view with sample data
